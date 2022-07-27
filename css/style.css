@@ -75,13 +75,6 @@ body {
     padding: 20px
 }
 
-.btn-tabs::before {
-    content: "📒"
-}
-
-.btn-tabs.active::before {
-    content: "📖"
-}
 
 #v-pills-tabContent .tab-pane {
     padding: 20px
